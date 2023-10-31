@@ -2,6 +2,8 @@
 
 This intention of this project is to deploy services on a ECS cluster in AWS
 
+![Alt text](https://ecu-infra-images.s3.us-east-2.amazonaws.com/neo-ecs-infra.drawio.png "Optional title")
+
 This project has 5 modules 
 
 1. Environment : Designed to manage different AWS accounts (one for dev and other for production)
